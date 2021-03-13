@@ -1,7 +1,7 @@
 {
   "name": "raimu",
   "version": "0.0.1",
-  "description": "Flat-cms using node wrap in vue.",
+  "description": "Create automated bot with session in telegram and whatsapp. Coming soon.",
   "main": "./src/index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
