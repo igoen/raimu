@@ -1,0 +1,25 @@
+{
+  "name": "raimu",
+  "version": "0.0.1",
+  "description": "Flat-cms using node wrap in vue.",
+  "main": "./src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igoen/raimu.git"
+  },
+  "keywords": [
+    "vue",
+    "node",
+    "md",
+    "cms"
+  ],
+  "author": "Gunawan Probo Swandono",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/igoen/raimu/issues"
+  },
+  "homepage": "https://github.com/igoen/raimu#readme"
+}
